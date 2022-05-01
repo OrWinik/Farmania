@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a363282a53b3e466a9c9dccae59ca48a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mesmerize Me
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 81dfa42881a614dc7b3393d80df3216b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
